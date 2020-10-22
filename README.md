@@ -1,0 +1,1 @@
+Download and use! Made with pynput and executable converted with pyinstaller, code is in the pyw file. 
